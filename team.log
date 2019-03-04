@@ -1,0 +1,865 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6745 64-bit) (preloaded format=pdflatex 2018.7.25)  30 NOV 2018 21:25
+entering extended mode
+**./team.tex
+(team.tex
+LaTeX2e <2018-04-01> patch level 5
+(header.tex
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) ("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.st
+y"
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+ ("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+)) ("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\ucs.sty"
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-global.def
+"
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count88
+\uc@combtoks=\toks16
+\uc@combtoksb=\toks17
+\uc@temptokena=\toks18
+)
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2018/06/05 3.22 The Babel package
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.def
+"
+File: switch.def 2018/06/05 3.22 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-russian\russ
+ianb.ldf"
+Language: russian 2017/08/12 1.3j Russian support for the Babel system
+
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2018/06/05 3.22 Babel common definitions
+\babel@savecnt=\count89
+\U@D=\dimen103
+
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.d
+ef")
+\bbl@dirlevel=\count90
+)
+
+Package babel Warning: No Cyrillic font encoding has been loaded so far.
+(babel)                A font encoding should be declared before babel.
+(babel)                Default `T2A' encoding will be loaded  on input line 74.
+
+
+
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cyrillic\t2aenc.de
+f"
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+)
+Package babel Info: Making " an active character on input line 120.
+Package babel Info: Default for \cyrdash is provided on input line 157.
+))
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
+sty"
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+\lst@mode=\count91
+\lst@gtempboxa=\box26
+\lst@token=\toks20
+\lst@length=\count92
+\lst@currlwidth=\dimen104
+\lst@column=\count93
+\lst@pos=\count94
+\lst@lostspace=\dimen105
+\lst@width=\dimen106
+\lst@newlines=\count95
+\lst@lineno=\count96
+\lst@maxwidth=\dimen107
+
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.s
+ty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count97
+\lst@skipnumbers=\count98
+\lst@framebox=\box27
+)
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
+cfg"
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\comment\comment.st
+y"
+\CommentStream=\write3
+ Excluding comment 'comment')
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.s
+ty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.
+sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks21
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color
+.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titlesec\titlesec.
+sty"
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box28
+\beforetitleunit=\skip43
+\aftertitleunit=\skip44
+\ttl@plus=\dimen108
+\ttl@minus=\dimen109
+\ttl@toksa=\toks22
+\titlewidth=\dimen110
+\titlewidthlast=\dimen111
+\titlewidthfirst=\dimen112
+)
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\blindtext\blindtex
+t.sty"
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\xspace.sty"
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count99
+\c@Blindtext=\count100
+\c@blind@countparstart=\count101
+\blind@countxx=\count102
+\blindtext@numBlindtext=\count103
+\blind@countyy=\count104
+\c@blindlist=\count105
+\c@blindlistlevel=\count106
+\c@blindlist@level=\count107
+\blind@listitem=\count108
+\c@blind@listcount=\count109
+\c@blind@levelcount=\count110
+\blind@mathformula=\count111
+\blind@Mathformula=\count112
+\c@blind@randomcount=\count113
+\c@blind@randommax=\count114
+\c@blind@pangramcount=\count115
+\c@blind@pangrammax=\count116
+)
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
+sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.
+sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+)
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
+)
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.
+sty"
+Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
+
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
+base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infware
+rr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.st
+y"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefin
+ekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds
+.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions
+.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetke
+ys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmd
+s.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluate
+x.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexc
+mds.sty"
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.s
+ty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+))
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tocloft\tocloft.st
+y"
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has section divisions on input line 51.
+\cftparskip=\skip45
+\cftbeforetoctitleskip=\skip46
+\cftaftertoctitleskip=\skip47
+\cftbeforepartskip=\skip48
+\cftpartnumwidth=\skip49
+\cftpartindent=\skip50
+\cftbeforesecskip=\skip51
+\cftsecindent=\skip52
+\cftsecnumwidth=\skip53
+\cftbeforesubsecskip=\skip54
+\cftsubsecindent=\skip55
+\cftsubsecnumwidth=\skip56
+\cftbeforesubsubsecskip=\skip57
+\cftsubsubsecindent=\skip58
+\cftsubsubsecnumwidth=\skip59
+\cftbeforeparaskip=\skip60
+\cftparaindent=\skip61
+\cftparanumwidth=\skip62
+\cftbeforesubparaskip=\skip63
+\cftsubparaindent=\skip64
+\cftsubparanumwidth=\skip65
+\cftbeforeloftitleskip=\skip66
+\cftafterloftitleskip=\skip67
+\cftbeforefigskip=\skip68
+\cftfigindent=\skip69
+\cftfignumwidth=\skip70
+\c@lofdepth=\count117
+\c@lotdepth=\count118
+\cftbeforelottitleskip=\skip71
+\cftafterlottitleskip=\skip72
+\cftbeforetabskip=\skip73
+\cfttabindent=\skip74
+\cfttabnumwidth=\skip75
+)
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.
+sty"
+Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
+
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count119
+\calc@Bcount=\count120
+\calc@Adimen=\dimen115
+\calc@Bdimen=\dimen116
+\calc@Askip=\skip76
+\calc@Bskip=\skip77
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count121
+\calc@Cskip=\skip78
+)
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.st
+y"
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\atbegsh
+i.sty"
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+))
+\AM@pagewidth=\dimen117
+\AM@pageheight=\dimen118
+
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdfpages\pppdftex.
+def"
+File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box29
+\AM@global@opts=\toks23
+\AM@toc@title=\toks24
+\c@AM@survey=\count122
+\AM@templatesizebox=\box30
+)
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.
+sty"
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip79
+\f@nch@O@elh=\skip80
+\f@nch@O@erh=\skip81
+\f@nch@O@olh=\skip82
+\f@nch@O@orh=\skip83
+\f@nch@O@elf=\skip84
+\f@nch@O@erf=\skip85
+\f@nch@O@olf=\skip86
+\f@nch@O@orf=\skip87
+)
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lastpage\lastpage.
+sty"
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+)
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.
+sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.
+sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.
+sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count123
+\Gm@cntv=\count124
+\c@Gm@tempcnt=\count125
+\Gm@bindingoffset=\dimen119
+\Gm@wd@mp=\dimen120
+\Gm@odd@mp=\dimen121
+\Gm@even@mp=\dimen122
+\Gm@layoutwidth=\dimen123
+\Gm@layoutheight=\dimen124
+\Gm@layouthoffset=\dimen125
+\Gm@layoutvoffset=\dimen126
+\Gm@dimlist=\toks25
+
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.
+cfg"))
+\FHoffset=\skip88
+
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.
+sty"
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.
+sty"
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.
+sty"
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.s
+ty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+)) (document.tex
+
+LaTeX Warning: Unused global option(s):
+    [portrait].
+
+(team.aux
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 3.
+
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cyrillic\t2acmr.fd
+"
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+))
+\openout1 = `team.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+ ("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\ucsencs.def"
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+\c@lstlisting=\count126
+
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
+ii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count127
+\scratchdimen=\dimen127
+\scratchbox=\box31
+\nofMPsegments=\count128
+\nofMParguments=\count129
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count130
+\MPscratchDim=\dimen128
+\MPnumerator=\count131
+\makeMPintoPDFobject=\count132
+\everyMPtoPDFconversion=\toks27
+)
+\AtBeginShipoutBox=\box32
+
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\pdflscape
+.sty"
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\lscape.st
+y"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 8.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(28.45274pt, 540.60239pt, 28.45274pt)
+* v-part:(T,H,B)=(56.9055pt, 751.15277pt, 36.98857pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=540.60239pt
+* \textheight=751.15277pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=25.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumntrue
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(team.toc
+LaTeX Font Info:    Try loading font information for U+msa on input line 2.
+
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 2.
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
+\tf@toc=\write4
+\openout4 = `team.toc'.
+
+ (final/template/template.cpp
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 4.
+
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cyrillic\t2acmtt.f
+d"
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)) (practice.tex
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 2.
+
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 2.
+
+("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-4.def"
+File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
+))
+(final/stuff/debug.cpp
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 14.
+) [1{C:/Users/Roman/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+] (final/template/fastIO.cpp) (final/template/optimizations.cpp)
+(final/template/useful.cpp) (final/template/Template.java [2])
+(final/template/bitset.cpp) (final/numeric/fft.cpp
+Underfull \vbox (badness 3635) has occurred while \output is active []
+
+ [3])
+(final/numeric/fftint.cpp) (final/numeric/blackbox.cpp [4])
+(final/numeric/crt.cpp) (final/numeric/extendedgcd.cpp)
+(final/numeric/mulMod.cpp) (final/numeric/modReverse.cpp)
+(final/numeric/pollard.cpp) (final/numeric/poly.cpp [5]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+(final/numeric/simplex.cpp [6]) (final/numeric/sumLine.cpp)
+(final/numeric/integrate.cpp)
+Overfull \hbox (5.24298pt too wide) in paragraph at lines 44--44
+|[]\T2A/cmr/bx/n/14.4 final/geom/commonTangents.cpp| 
+ []
+
+(final/geom/commonTangents.cpp)
+Overfull \hbox (29.68831pt too wide) in paragraph at lines 45--45
+|[]\T2A/cmr/bx/n/14.4 final/geom/halfplaneIntersection.cpp| 
+ []
+
+(final/geom/halfplaneIntersection.cpp [7]) (final/geom/minDisc.cpp)
+Underfull \hbox (badness 10000) in paragraph at lines 47--47
+|[]\T2A/cmr/bx/n/14.4 final/geom/convexHull3D-
+ []
+
+(final/geom/convexHull3D-N2.cpp) (final/geom/convexDynamic.cpp [8])
+(final/geom/polygonArcCut.cpp) (final/geom/polygonTangent.cpp)
+(final/geom/checkPlaneInt.cpp) (final/geom/furthestPoints.cpp) [9]
+(final/geom/chtDynamic.cpp) (final/strings/eertree.cpp)
+(final/strings/sufAutomaton.cpp [10]) (final/strings/sufArray.cpp)
+(final/strings/duval.cpp) [11] (final/graphs/centroid.cpp)
+(final/graphs/dominatorTree.cpp)
+Overfull \hbox (10.2285pt too wide) in paragraph at lines 64--64
+|[]\T2A/cmr/bx/n/14.4 final/graphs/generalMatching.cpp| 
+ []
+
+(final/graphs/generalMatching.cpp [12]) (final/graphs/heavyLight.cpp)
+(final/graphs/hungary.cpp [13]) (final/graphs/minCost.cpp)
+Overfull \hbox (18.84557pt too wide) in paragraph at lines 68--68
+|[]\T2A/cmr/bx/n/14.4 final/graphs/minCostNegCycle.cpp| 
+ []
+
+(final/graphs/minCostNegCycle.cpp [14]) (final/graphs/retro.cpp)
+(final/graphs/mincut.cpp)
+Overfull \hbox (2.42744pt too wide) in paragraph at lines 72--72
+|[]\T2A/cmr/bx/n/14.4 final/graphs/twoChineseFast.cpp| 
+ []
+
+(final/graphs/twoChineseFast.cpp [15]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+(final/graphs/linkcut.cpp [16]) (final/graphs/chordaltree.cpp)
+(final/graphs/minimization.cpp [17])
+Overfull \hbox (31.30923pt too wide) in paragraph at lines 76--76
+|[]\T2A/cmr/bx/n/14.4 final/graphs/matroidIntersection.cpp| 
+ []
+
+(final/graphs/matroidIntersection.cpp) [18] (knowledge.tex
+Underfull \hbox (badness 6859) in paragraph at lines 10--11
+[]\T2A/cmr/m/n/10 явный –унге- утт чет-вер-то-го по-р€д-ка, ошиб-ка
+ []
+
+
+Underfull \hbox (badness 2426) in paragraph at lines 22--26
+\T2A/cmr/m/n/10 * f(x_n+2,y_n+2) - 637/360 * f(x_n+1,y_n+1) +
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--85
+[]\T2A/cmr/m/n/10 ‘ибоначчи 45: 1134903170 46: 1836311903
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--85
+\T2A/cmr/m/n/10 47: 2971215073 91: 4660046610375530309 92:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--101
+\T2A/cmr/m/n/10 d(97772875200)=4032 10^{12}: d(963761198400)=6720
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--101
+\T2A/cmr/m/n/10 10^{15}: d(866421317361600)=26880 10^{18}:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--108
+[]\T2A/cmr/m/n/10 Bell numbers: 0:1, 1:1, 2:2, 3:5, 4:15,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--108
+\T2A/cmr/m/n/10 5:52, 6:203, 7:877, 8:4140, 9:21147, 10:115975,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--108
+\T2A/cmr/m/n/10 11:678570, 12:4213597, 13:27644437, 14:190899322,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--108
+\T2A/cmr/m/n/10 15:1382958545, 16:10480142147, 17:82864869804,
+ []
+
+
+Underfull \hbox (badness 2334) in paragraph at lines 102--108
+\T2A/cmr/m/n/10 18:682076806159, 19:5832742205057, 20:51724158235372,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--108
+\T2A/cmr/m/n/10 21:474869816156751, 22:4506715738447323,
+ []
+
+
+Underfull \hbox (badness 6510) in paragraph at lines 109--115
+[]\T2A/cmr/m/n/10 Catalan numbers: 0:1, 1:1, 2:2, 3:5, 4:14, 5:42,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--115
+\T2A/cmr/m/n/10 6:132, 7:429, 8:1430, 9:4862, 10:16796, 11:58786,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--115
+\T2A/cmr/m/n/10 12:208012, 13:742900, 14:2674440, 15:9694845,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--115
+\T2A/cmr/m/n/10 20:6564120420, 21:24466267020, 22:91482563640,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--118
+\T2A/cmr/m/n/10 60:966467, 70:4087968, 80:15796476, 90:56634173,
+ []
+
+) [19]
+
+pdfTeX warning: pdflatex.EXE (file ./final/stuff/integralTable.pdf): PDF inclus
+ion: found PDF version <1.7>, but at most version <1.5> allowed
+<final/stuff/integralTable.pdf, id=71, 767.86874pt x 993.7125pt>
+File: final/stuff/integralTable.pdf Graphic file (type pdf)
+<use final/stuff/integralTable.pdf>
+Package pdftex.def Info: final/stuff/integralTable.pdf  used on input line 85.
+(pdftex.def)             Requested size: 767.86687pt x 993.71007pt.
+
+
+pdfTeX warning: pdflatex.EXE (file ./final/stuff/integralTable.pdf): PDF inclus
+ion: found PDF version <1.7>, but at most version <1.5> allowed
+File: final/stuff/integralTable.pdf Graphic file (type pdf)
+<use final/stuff/integralTable.pdf>
+Package pdftex.def Info: final/stuff/integralTable.pdf  used on input line 85.
+(pdftex.def)             Requested size: 767.86687pt x 993.71007pt.
+
+
+pdfTeX warning: pdflatex.EXE (file ./final/stuff/integralTable.pdf): PDF inclus
+ion: found PDF version <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex.EXE (file ./final/stuff/integralTable.pdf): PDF inclus
+ion: found PDF version <1.7>, but at most version <1.5> allowed
+<final/stuff/integralTable.pdf, id=74, page=1, 767.86874pt x 993.7125pt>
+File: final/stuff/integralTable.pdf Graphic file (type pdf)
+<use final/stuff/integralTable.pdf, page 1>
+Package pdftex.def Info: final/stuff/integralTable.pdf , page1 used on input li
+ne 85.
+(pdftex.def)             Requested size: 767.86687pt x 993.71007pt.
+File: final/stuff/integralTable.pdf Graphic file (type pdf)
+<use final/stuff/integralTable.pdf, page 1>
+Package pdftex.def Info: final/stuff/integralTable.pdf , page1 used on input li
+ne 85.
+(pdftex.def)             Requested size: 598.17363pt x 774.10706pt.
+File: final/stuff/integralTable.pdf Graphic file (type pdf)
+<use final/stuff/integralTable.pdf, page 1>
+Package pdftex.def Info: final/stuff/integralTable.pdf , page1 used on input li
+ne 85.
+(pdftex.def)             Requested size: 598.17363pt x 774.10706pt.
+File: final/stuff/integralTable.pdf Graphic file (type pdf)
+<use final/stuff/integralTable.pdf, page 1>
+Package pdftex.def Info: final/stuff/integralTable.pdf , page1 used on input li
+ne 85.
+(pdftex.def)             Requested size: 598.17363pt x 774.10706pt.
+File: final/stuff/integralTable.pdf Graphic file (type pdf)
+<use final/stuff/integralTable.pdf, page 1>
+Package pdftex.def Info: final/stuff/integralTable.pdf , page1 used on input li
+ne 85.
+(pdftex.def)             Requested size: 598.17363pt x 774.10706pt.
+[20 <./final/stuff/integralTable.pdf>]
+
+pdfTeX warning: pdflatex.EXE (file ./final/stuff/integralTable.pdf): PDF inclus
+ion: found PDF version <1.7>, but at most version <1.5> allowed
+<final/stuff/integralTable.pdf, id=154, page=2, 767.86874pt x 993.7125pt>
+File: final/stuff/integralTable.pdf Graphic file (type pdf)
+<use final/stuff/integralTable.pdf, page 2>
+Package pdftex.def Info: final/stuff/integralTable.pdf , page2 used on input li
+ne 85.
+(pdftex.def)             Requested size: 598.17363pt x 774.10706pt.
+File: final/stuff/integralTable.pdf Graphic file (type pdf)
+<use final/stuff/integralTable.pdf, page 2>
+Package pdftex.def Info: final/stuff/integralTable.pdf , page2 used on input li
+ne 85.
+(pdftex.def)             Requested size: 598.17363pt x 774.10706pt.
+File: final/stuff/integralTable.pdf Graphic file (type pdf)
+<use final/stuff/integralTable.pdf, page 2>
+Package pdftex.def Info: final/stuff/integralTable.pdf , page2 used on input li
+ne 85.
+(pdftex.def)             Requested size: 598.17363pt x 774.10706pt.
+[21 <./final/stuff/integralTable.pdf>]
+<final/stuff/hexagonal.pdf, id=158, 493.9042pt x 846.08798pt>
+File: final/stuff/hexagonal.pdf Graphic file (type pdf)
+<use final/stuff/hexagonal.pdf>
+Package pdftex.def Info: final/stuff/hexagonal.pdf  used on input line 88.
+(pdftex.def)             Requested size: 493.903pt x 846.08592pt.
+File: final/stuff/hexagonal.pdf Graphic file (type pdf)
+<use final/stuff/hexagonal.pdf>
+Package pdftex.def Info: final/stuff/hexagonal.pdf  used on input line 88.
+(pdftex.def)             Requested size: 493.903pt x 846.08592pt.
+<final/stuff/hexagonal.pdf, id=161, page=1, 493.9042pt x 846.08798pt>
+File: final/stuff/hexagonal.pdf Graphic file (type pdf)
+<use final/stuff/hexagonal.pdf, page 1>
+Package pdftex.def Info: final/stuff/hexagonal.pdf , page1 used on input line 8
+8.
+(pdftex.def)             Requested size: 493.903pt x 846.08592pt.
+File: final/stuff/hexagonal.pdf Graphic file (type pdf)
+<use final/stuff/hexagonal.pdf, page 1>
+Package pdftex.def Info: final/stuff/hexagonal.pdf , page1 used on input line 8
+8.
+(pdftex.def)             Requested size: 493.3453pt x 845.13055pt.
+File: final/stuff/hexagonal.pdf Graphic file (type pdf)
+<use final/stuff/hexagonal.pdf, page 1>
+Package pdftex.def Info: final/stuff/hexagonal.pdf , page1 used on input line 8
+8.
+(pdftex.def)             Requested size: 493.3453pt x 845.13055pt.
+File: final/stuff/hexagonal.pdf Graphic file (type pdf)
+<use final/stuff/hexagonal.pdf, page 1>
+Package pdftex.def Info: final/stuff/hexagonal.pdf , page1 used on input line 8
+8.
+(pdftex.def)             Requested size: 493.3453pt x 845.13055pt.
+File: final/stuff/hexagonal.pdf Graphic file (type pdf)
+<use final/stuff/hexagonal.pdf, page 1>
+Package pdftex.def Info: final/stuff/hexagonal.pdf , page1 used on input line 8
+8.
+(pdftex.def)             Requested size: 493.3453pt x 845.13055pt.
+ [22 <./final/stuff/hexagonal.pdf>]
+
+AED: lastpage setting LastPage
+(team.aux) ) ) 
+Here is how much of TeX's memory you used:
+ 9281 strings out of 492973
+ 131547 string characters out of 3126692
+ 1340875 words of memory out of 3000000
+ 12816 multiletter control sequences out of 15000+200000
+ 12332 words of font info for 32 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 44i,18n,67p,352b,938s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Roman/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips
+/cm-super/cm-super-t2a.enc}<C:/Users/Roman/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Roman/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cmextra/cmex9.pfb><C:/Users/Roman/AppData
+/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/R
+oman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb
+><C:/Users/Roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmmi9.pfb><C:/Users/Roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmr10.pfb><C:/Users/Roman/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Roman/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/Roman/AppData/Local/P
+rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Roman/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users
+/Roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.
+pfb><C:/Users/Roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmsy6.pfb><C:/Users/Roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmsy7.pfb><C:/Users/Roman/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/Roman/AppData/Local/Programs/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt9.pfb><C:/Users/Roman/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1000.pfb><C:/Users/Roman
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1440.pfb><C:
+/Users/Roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm
+0600.pfb><C:/Users/Roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/c
+m-super/sfrm0700.pfb><C:/Users/Roman/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/public/cm-super/sfrm0900.pfb><C:/Users/Roman/AppData/Local/Programs/MiKTeX 
+2.9/fonts/type1/public/cm-super/sfrm1000.pfb><C:/Users/Roman/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1200.pfb><C:/Users/Roman/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sftt0800.pfb><C:/Users/
+Roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sftt1000.pf
+b>
+Output written on team.pdf (22 pages, 721339 bytes).
+PDF statistics:
+ 213 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+

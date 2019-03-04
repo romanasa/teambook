@@ -1,0 +1,8 @@
+3 7
+get 1 2
+link 1 2
+get 1 2
+cut 1 2
+get 1 2
+link 1 2
+get 1 2
