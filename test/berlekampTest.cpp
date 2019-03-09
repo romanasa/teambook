@@ -98,9 +98,9 @@ int main() {
 	
 	MOD = m;
 	
-	vector<int> a(n);
-	for (int i = 0; i < n; i++) cin >> a[i];
-	while (a.size() < 100) a.push_back(0);
+	vector<int> a;
+	a.push_back(1), a.push_back(1);
+	for (int i = 2; i < n; i++) a.push_back(a[i - 2] + a[i - 1]);
 	
 	auto res = berlekamp(a);
 	err("res = {"); for (int x : res) err(" %d,", x); err(" }\n");

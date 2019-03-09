@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2019.1.3)  9 MAR 2019 11:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2019.1.3)  9 MAR 2019 12:26
 entering extended mode
 **./team.tex
 (team.tex
@@ -538,10 +538,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \tf@toc=\write4
 \openout4 = `team.toc'.
 
- [1{C:/Users/roman/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
-
-]
-(final/template/template.cpp
+ (final/template/template.cpp
 LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 4.
 
 ("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cyrillic\t2acmtt.f
@@ -562,23 +559,30 @@ File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
 (final/stuff/debug.cpp
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 14.
-) (final/template/fastIO.cpp)
-(final/template/optimizations.cpp [2]) (final/template/useful.cpp)
-(final/template/Template.java) (final/template/bitset.cpp) [3]
-(final/numeric/fft.cpp
+ [1{C:/Users/roman/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+]) (final/template/fastIO.cpp) (final/template/optimizations.cpp)
+(final/template/useful.cpp) (final/template/Template.java [2])
+(final/template/bitset.cpp) (final/numeric/fft.cpp
 Underfull \vbox (badness 3635) has occurred while \output is active []
 
-)
-(final/numeric/fftint.cpp [4]) (final/numeric/berlekamp.cpp)
-(final/numeric/blackbox.cpp [5]) (final/numeric/crt.cpp)
+ [3])
+(final/numeric/fftint.cpp) (final/numeric/berlekamp.cpp [4])
+(final/numeric/blackbox.cpp) (final/numeric/crt.cpp)
 (final/numeric/extendedgcd.cpp) (final/numeric/mulMod.cpp)
-(final/numeric/modReverse.cpp) (final/numeric/pollard.cpp)
-(final/numeric/poly.cpp [6]
+(final/numeric/modReverse.cpp) [5] (final/numeric/pollard.cpp)
+(final/numeric/poly.cpp
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6])
+(final/numeric/simplex.cpp
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
-(final/numeric/simplex.cpp [7]) (final/numeric/sumLine.cpp)
-(final/numeric/integrate.cpp)
+(final/numeric/sumLine.cpp) (final/numeric/integrate.cpp [8])
 Overfull \hbox (5.24298pt too wide) in paragraph at lines 45--45
 |[]\T2A/cmr/bx/n/14.4 final/geom/commonTangents.cpp| 
  []
@@ -588,45 +592,53 @@ Overfull \hbox (29.68831pt too wide) in paragraph at lines 46--46
 |[]\T2A/cmr/bx/n/14.4 final/geom/halfplaneIntersection.cpp| 
  []
 
-(final/geom/halfplaneIntersection.cpp [8]) (final/geom/minDisc.cpp)
+(final/geom/halfplaneIntersection.cpp [9]) (final/geom/minDisc.cpp)
 Underfull \hbox (badness 10000) in paragraph at lines 48--48
 |[]\T2A/cmr/bx/n/14.4 final/geom/convexHull3D-
  []
 
-(final/geom/convexHull3D-N2.cpp) (final/geom/convexDynamic.cpp [9])
+(final/geom/convexHull3D-N2.cpp) (final/geom/convexDynamic.cpp [10])
 (final/geom/polygonArcCut.cpp) (final/geom/polygonTangent.cpp)
-(final/geom/checkPlaneInt.cpp) (final/geom/furthestPoints.cpp) [10]
+(final/geom/checkPlaneInt.cpp) (final/geom/furthestPoints.cpp) [11]
 (final/geom/chtDynamic.cpp) (final/strings/eertree.cpp)
-(final/strings/sufAutomaton.cpp [11]) (final/strings/sufArray.cpp)
-(final/strings/duval.cpp) [12] (final/graphs/centroid.cpp)
-(final/graphs/dominatorTree.cpp)
-Overfull \hbox (10.2285pt too wide) in paragraph at lines 65--65
-|[]\T2A/cmr/bx/n/14.4 final/graphs/generalMatching.cpp| 
- []
+(final/strings/manacher.cpp)
+Underfull \vbox (badness 4048) has occurred while \output is active []
 
-(final/graphs/generalMatching.cpp [13]) (final/graphs/heavyLight.cpp)
-(final/graphs/hungary.cpp [14]) (final/graphs/minCost.cpp)
-Overfull \hbox (18.84557pt too wide) in paragraph at lines 69--69
-|[]\T2A/cmr/bx/n/14.4 final/graphs/minCostNegCycle.cpp| 
- []
-
-(final/graphs/minCostNegCycle.cpp [15]) (final/graphs/retro.cpp)
-(final/graphs/mincut.cpp)
-Overfull \hbox (2.42744pt too wide) in paragraph at lines 73--73
-|[]\T2A/cmr/bx/n/14.4 final/graphs/twoChineseFast.cpp| 
- []
-
-(final/graphs/twoChineseFast.cpp [16]
+ [12]
+(final/strings/sufAutomaton.cpp) (final/strings/sufArray.cpp)
+(final/strings/sufArrayLinear.cpp [13]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
-(final/graphs/linkcut.cpp [17]) (final/graphs/chordaltree.cpp)
-(final/graphs/minimization.cpp [18])
-Overfull \hbox (31.30923pt too wide) in paragraph at lines 77--77
+(final/strings/duval.cpp) [14] (final/graphs/centroid.cpp)
+(final/graphs/dominatorTree.cpp)
+Overfull \hbox (10.2285pt too wide) in paragraph at lines 67--67
+|[]\T2A/cmr/bx/n/14.4 final/graphs/generalMatching.cpp| 
+ []
+
+(final/graphs/generalMatching.cpp [15]) (final/graphs/heavyLight.cpp)
+(final/graphs/hungary.cpp [16]) (final/graphs/minCost.cpp)
+Overfull \hbox (18.84557pt too wide) in paragraph at lines 71--71
+|[]\T2A/cmr/bx/n/14.4 final/graphs/minCostNegCycle.cpp| 
+ []
+
+(final/graphs/minCostNegCycle.cpp [17]) (final/graphs/retro.cpp)
+(final/graphs/mincut.cpp)
+Overfull \hbox (2.42744pt too wide) in paragraph at lines 75--75
+|[]\T2A/cmr/bx/n/14.4 final/graphs/twoChineseFast.cpp| 
+ []
+
+(final/graphs/twoChineseFast.cpp [18]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+(final/graphs/linkcut.cpp [19]) (final/graphs/chordaltree.cpp)
+(final/graphs/minimization.cpp [20])
+Overfull \hbox (31.30923pt too wide) in paragraph at lines 79--79
 |[]\T2A/cmr/bx/n/14.4 final/graphs/matroidIntersection.cpp| 
  []
 
-(final/graphs/matroidIntersection.cpp) [19] (knowledge.tex
+(final/graphs/matroidIntersection.cpp) [21] (knowledge.tex
 Underfull \hbox (badness 6859) in paragraph at lines 10--11
 []\T2A/cmr/m/n/10 явный –унге- утт чет-вер-то-го по-р€д-ка, ошиб-ка
  []
@@ -711,161 +723,68 @@ Underfull \hbox (badness 10000) in paragraph at lines 116--118
 \T2A/cmr/m/n/10 60:966467, 70:4087968, 80:15796476, 90:56634173,
  []
 
-) [20]
-
-pdfTeX warning: pdflatex.exe (file ./final/stuff/integralTable.pdf): PDF inclus
-ion: found PDF version <1.7>, but at most version <1.5> allowed
-<final/stuff/integralTable.pdf, id=74, 767.86874pt x 993.7125pt>
-File: final/stuff/integralTable.pdf Graphic file (type pdf)
-<use final/stuff/integralTable.pdf>
-Package pdftex.def Info: final/stuff/integralTable.pdf  used on input line 86.
-(pdftex.def)             Requested size: 767.86687pt x 993.71007pt.
-
-
-pdfTeX warning: pdflatex.exe (file ./final/stuff/integralTable.pdf): PDF inclus
-ion: found PDF version <1.7>, but at most version <1.5> allowed
-File: final/stuff/integralTable.pdf Graphic file (type pdf)
-<use final/stuff/integralTable.pdf>
-Package pdftex.def Info: final/stuff/integralTable.pdf  used on input line 86.
-(pdftex.def)             Requested size: 767.86687pt x 993.71007pt.
-
-
-pdfTeX warning: pdflatex.exe (file ./final/stuff/integralTable.pdf): PDF inclus
-ion: found PDF version <1.7>, but at most version <1.5> allowed
-
-
-pdfTeX warning: pdflatex.exe (file ./final/stuff/integralTable.pdf): PDF inclus
-ion: found PDF version <1.7>, but at most version <1.5> allowed
-<final/stuff/integralTable.pdf, id=77, page=1, 767.86874pt x 993.7125pt>
-File: final/stuff/integralTable.pdf Graphic file (type pdf)
-<use final/stuff/integralTable.pdf, page 1>
-Package pdftex.def Info: final/stuff/integralTable.pdf , page1 used on input li
-ne 86.
-(pdftex.def)             Requested size: 767.86687pt x 993.71007pt.
-File: final/stuff/integralTable.pdf Graphic file (type pdf)
-<use final/stuff/integralTable.pdf, page 1>
-Package pdftex.def Info: final/stuff/integralTable.pdf , page1 used on input li
-ne 86.
-(pdftex.def)             Requested size: 598.17363pt x 774.10706pt.
-File: final/stuff/integralTable.pdf Graphic file (type pdf)
-<use final/stuff/integralTable.pdf, page 1>
-Package pdftex.def Info: final/stuff/integralTable.pdf , page1 used on input li
-ne 86.
-(pdftex.def)             Requested size: 598.17363pt x 774.10706pt.
-File: final/stuff/integralTable.pdf Graphic file (type pdf)
-<use final/stuff/integralTable.pdf, page 1>
-Package pdftex.def Info: final/stuff/integralTable.pdf , page1 used on input li
-ne 86.
-(pdftex.def)             Requested size: 598.17363pt x 774.10706pt.
-File: final/stuff/integralTable.pdf Graphic file (type pdf)
-<use final/stuff/integralTable.pdf, page 1>
-Package pdftex.def Info: final/stuff/integralTable.pdf , page1 used on input li
-ne 86.
-(pdftex.def)             Requested size: 598.17363pt x 774.10706pt.
-[21 <./final/stuff/integralTable.pdf>]
-
-pdfTeX warning: pdflatex.exe (file ./final/stuff/integralTable.pdf): PDF inclus
-ion: found PDF version <1.7>, but at most version <1.5> allowed
-<final/stuff/integralTable.pdf, id=157, page=2, 767.86874pt x 993.7125pt>
-File: final/stuff/integralTable.pdf Graphic file (type pdf)
-<use final/stuff/integralTable.pdf, page 2>
-Package pdftex.def Info: final/stuff/integralTable.pdf , page2 used on input li
-ne 86.
-(pdftex.def)             Requested size: 598.17363pt x 774.10706pt.
-File: final/stuff/integralTable.pdf Graphic file (type pdf)
-<use final/stuff/integralTable.pdf, page 2>
-Package pdftex.def Info: final/stuff/integralTable.pdf , page2 used on input li
-ne 86.
-(pdftex.def)             Requested size: 598.17363pt x 774.10706pt.
-File: final/stuff/integralTable.pdf Graphic file (type pdf)
-<use final/stuff/integralTable.pdf, page 2>
-Package pdftex.def Info: final/stuff/integralTable.pdf , page2 used on input li
-ne 86.
-(pdftex.def)             Requested size: 598.17363pt x 774.10706pt.
-[22 <./final/stuff/integralTable.pdf>]
-<final/stuff/hexagonal.pdf, id=161, 493.9042pt x 846.08798pt>
+) [22]
+<final/stuff/hexagonal.pdf, id=80, 493.9042pt x 846.08798pt>
 File: final/stuff/hexagonal.pdf Graphic file (type pdf)
 <use final/stuff/hexagonal.pdf>
-Package pdftex.def Info: final/stuff/hexagonal.pdf  used on input line 89.
+Package pdftex.def Info: final/stuff/hexagonal.pdf  used on input line 91.
 (pdftex.def)             Requested size: 493.903pt x 846.08592pt.
 File: final/stuff/hexagonal.pdf Graphic file (type pdf)
 <use final/stuff/hexagonal.pdf>
-Package pdftex.def Info: final/stuff/hexagonal.pdf  used on input line 89.
+Package pdftex.def Info: final/stuff/hexagonal.pdf  used on input line 91.
 (pdftex.def)             Requested size: 493.903pt x 846.08592pt.
-<final/stuff/hexagonal.pdf, id=164, page=1, 493.9042pt x 846.08798pt>
+<final/stuff/hexagonal.pdf, id=83, page=1, 493.9042pt x 846.08798pt>
 File: final/stuff/hexagonal.pdf Graphic file (type pdf)
 <use final/stuff/hexagonal.pdf, page 1>
-Package pdftex.def Info: final/stuff/hexagonal.pdf , page1 used on input line 8
-9.
+Package pdftex.def Info: final/stuff/hexagonal.pdf , page1 used on input line 9
+1.
 (pdftex.def)             Requested size: 493.903pt x 846.08592pt.
 File: final/stuff/hexagonal.pdf Graphic file (type pdf)
 <use final/stuff/hexagonal.pdf, page 1>
-Package pdftex.def Info: final/stuff/hexagonal.pdf , page1 used on input line 8
-9.
+Package pdftex.def Info: final/stuff/hexagonal.pdf , page1 used on input line 9
+1.
 (pdftex.def)             Requested size: 493.3453pt x 845.13055pt.
 File: final/stuff/hexagonal.pdf Graphic file (type pdf)
 <use final/stuff/hexagonal.pdf, page 1>
-Package pdftex.def Info: final/stuff/hexagonal.pdf , page1 used on input line 8
-9.
+Package pdftex.def Info: final/stuff/hexagonal.pdf , page1 used on input line 9
+1.
 (pdftex.def)             Requested size: 493.3453pt x 845.13055pt.
 File: final/stuff/hexagonal.pdf Graphic file (type pdf)
 <use final/stuff/hexagonal.pdf, page 1>
-Package pdftex.def Info: final/stuff/hexagonal.pdf , page1 used on input line 8
-9.
+Package pdftex.def Info: final/stuff/hexagonal.pdf , page1 used on input line 9
+1.
 (pdftex.def)             Requested size: 493.3453pt x 845.13055pt.
 File: final/stuff/hexagonal.pdf Graphic file (type pdf)
 <use final/stuff/hexagonal.pdf, page 1>
-Package pdftex.def Info: final/stuff/hexagonal.pdf , page1 used on input line 8
-9.
+Package pdftex.def Info: final/stuff/hexagonal.pdf , page1 used on input line 9
+1.
 (pdftex.def)             Requested size: 493.3453pt x 845.13055pt.
- [23 <./final/stuff/hexagonal.pdf>]
-
+ [23 <./final/stuff/hexagonal.pdf>] 
 AED: lastpage setting LastPage
-(team.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) ) 
+(team.aux) ) ) 
 Here is how much of TeX's memory you used:
- 9313 strings out of 492970
- 132030 string characters out of 3126595
+ 9422 strings out of 492970
+ 133106 string characters out of 3126595
  1507852 words of memory out of 3000000
- 12847 multiletter control sequences out of 15000+200000
+ 12952 multiletter control sequences out of 15000+200000
  12332 words of font info for 32 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,18n,67p,352b,938s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/cm-super/
-cm-super-t2a.enc}<C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmbx9.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cmextra/cmex9.pfb><C:/Users/roman/AppData/Local/Pro
-grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/roman/AppDa
-ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users
-/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.p
-fb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmr10.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmr17.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/roman/AppData/Local/Programs/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/roman/AppData/Local/
-Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/roman/App
-Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Us
-ers/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy
-6.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsf
-onts/cm/cmsy7.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmsy9.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmtt9.pfb><C:/Users/roman/AppData/Local/Program
-s/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1000.pfb><C:/Users/roman/AppData/L
-ocal/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1440.pfb><C:/Users/rom
-an/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm0600.pfb><
-C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sf
-rm0700.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
-/cm-super/sfrm0900.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/
-type1/public/cm-super/sfrm1000.pfb><C:/Users/roman/AppData/Local/Programs/MiKTe
-X 2.9/fonts/type1/public/cm-super/sfrm1200.pfb><C:/Users/roman/AppData/Local/Pr
-ograms/MiKTeX 2.9/fonts/type1/public/cm-super/sftt0800.pfb><C:/Users/roman/AppD
-ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on team.pdf (23 pages, 726441 bytes).
+ 44i,18n,67p,352b,1002s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips
+/cm-super/cm-super-t2a.enc}<C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/roman/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/roman/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/roman
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1000.pfb><C:
+/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx
+1440.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/c
+m-super/sfrm0700.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/public/cm-super/sfrm1000.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 
+2.9/fonts/type1/public/cm-super/sftt0800.pfb><C:/Users/roman/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/cm-super/sftt1000.pfb>
+Output written on team.pdf (23 pages, 589048 bytes).
 PDF statistics:
- 216 PDF objects out of 1000 (max. 8388607)
+ 120 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
