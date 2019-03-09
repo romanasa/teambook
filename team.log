@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6745 64-bit) (preloaded format=pdflatex 2018.7.25)  30 NOV 2018 21:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2019.1.3)  9 MAR 2019 11:43
 entering extended mode
 **./team.tex
 (team.tex
 LaTeX2e <2018-04-01> patch level 5
 (header.tex
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo"
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo"
 File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count80
@@ -20,17 +20,17 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-) ("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.st
+) ("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.st
 y"
 Package: inputenc 2018/04/06 v1.3b Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
- ("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
+ ("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
-)) ("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\ucs.sty"
+)) ("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\ucs.sty"
 Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
 
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-global.def
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-global.def
 "
 File: uni-global.def 2013/05/13 UCS: Unicode global data
 )
@@ -39,29 +39,29 @@ File: uni-global.def 2013/05/13 UCS: Unicode global data
 \uc@combtoksb=\toks17
 \uc@temptokena=\toks18
 )
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty"
-Package: babel 2018/06/05 3.22 The Babel package
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.def
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2018/09/26 3.24 The Babel package
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.def
 "
-File: switch.def 2018/06/05 3.22 Babel switching mechanism
+File: switch.def 2018/09/26 3.24 Babel switching mechanism
 )
 *************************************
 * Local config file bblopts.cfg used
 *
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-russian\russ
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-russian\russ
 ianb.ldf"
 Language: russian 2017/08/12 1.3j Russian support for the Babel system
 
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def"
-File: babel.def 2018/06/05 3.22 Babel common definitions
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2018/09/26 3.24 Babel common definitions
 \babel@savecnt=\count89
 \U@D=\dimen103
 
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.d
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.d
 ef")
 \bbl@dirlevel=\count90
 )
@@ -72,23 +72,23 @@ Package babel Warning: No Cyrillic font encoding has been loaded so far.
 
 
 
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cyrillic\t2aenc.de
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cyrillic\t2aenc.de
 f"
 File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
 )
 Package babel Info: Making " an active character on input line 120.
 Package babel Info: Default for \cyrdash is provided on input line 157.
 ))
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty"
 Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.def"
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.def"
 File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
 sty"
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
 y"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
@@ -106,28 +106,28 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \lst@lineno=\count96
 \lst@maxwidth=\dimen107
 
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.s
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.s
 ty"
-File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+File: lstmisc.sty 2018/09/02 1.7 (Carsten Heinz)
 \c@lstnumber=\count97
 \lst@skipnumbers=\count98
 \lst@framebox=\box27
 )
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
 cfg"
-File: listings.cfg 2015/06/04 1.6 listings configuration
+File: listings.cfg 2018/09/02 1.7 listings configuration
 ))
-Package: listings 2015/06/04 1.6 (Carsten Heinz)
+Package: listings 2018/09/02 1.7 (Carsten Heinz)
 
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\comment\comment.st
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\comment\comment.st
 y"
 \CommentStream=\write3
  Excluding comment 'comment')
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.s
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.s
 ty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.
 sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks21
@@ -136,16 +136,16 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color
 .cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdfte
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdfte
 x.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 )
@@ -159,7 +159,7 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titlesec\titlesec.
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titlesec\titlesec.
 sty"
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \ttl@box=\box28
@@ -172,11 +172,11 @@ Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \titlewidthlast=\dimen111
 \titlewidthfirst=\dimen112
 )
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\blindtext\blindtex
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\blindtext\blindtex
 t.sty"
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
 
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\xspace.sty"
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\xspace.sty"
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
 \c@blindtext=\count99
@@ -198,18 +198,18 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 \c@blind@pangramcount=\count115
 \c@blind@pangrammax=\count116
 )
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
 sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.
 sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graph
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graph
 ics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
@@ -218,43 +218,43 @@ Package graphics Info: Driver file: pdftex.def on input line 99.
 \Gin@req@height=\dimen113
 \Gin@req@width=\dimen114
 )
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.
 sty"
 Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
 
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
 base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infware
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infware
 rr.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.st
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.st
 y"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefin
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefin
 ekeys.sty"
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds
 .sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )))
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions
 .sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetke
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetke
 ys.sty"
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmd
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmd
 s.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluate
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluate
 x.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
@@ -264,14 +264,14 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexc
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexc
 mds.sty"
-Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.s
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.s
 ty"
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -285,7 +285,7 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 ))
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tocloft\tocloft.st
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tocloft\tocloft.st
 y"
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has section divisions on input line 51.
@@ -323,14 +323,14 @@ Package tocloft Info: The document has section divisions on input line 51.
 \cfttabindent=\skip74
 \cfttabnumwidth=\skip75
 )
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.
 sty"
 Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
 
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty"
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty"
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count119
 \calc@Bcount=\count120
@@ -343,18 +343,18 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count121
 \calc@Cskip=\skip78
 )
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.st
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.st
 y"
 Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
 
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\atbegsh
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\atbegsh
 i.sty"
 Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 ))
 \AM@pagewidth=\dimen117
 \AM@pageheight=\dimen118
 
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdfpages\pppdftex.
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdfpages\pppdftex.
 def"
 File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
 )
@@ -364,9 +364,9 @@ File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
 \c@AM@survey=\count122
 \AM@templatesizebox=\box30
 )
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.
 sty"
-Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
 s
 \f@nch@headwidth=\skip79
 \f@nch@O@elh=\skip80
@@ -378,20 +378,20 @@ s
 \f@nch@O@olf=\skip86
 \f@nch@O@orf=\skip87
 )
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lastpage\lastpage.
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lastpage\lastpage.
 sty"
 Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
 )
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.
 sty"
 Package: geometry 2018/04/16 v5.8 Page Geometry
 
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.
 sty"
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.
 sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
@@ -408,25 +408,25 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen126
 \Gm@dimlist=\toks25
 
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.
 cfg"))
 \FHoffset=\skip88
 
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.
 sty"
-File: lstlang1.sty 2015/06/04 1.6 listings language file
+File: lstlang1.sty 2018/09/02 1.7 listings language file
 )
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.
 sty"
-File: lstlang1.sty 2015/06/04 1.6 listings language file
+File: lstlang1.sty 2018/09/02 1.7 listings language file
 )
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.
 sty"
-File: lstlang1.sty 2015/06/04 1.6 listings language file
+File: lstlang1.sty 2018/09/02 1.7 listings language file
 )
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.s
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.s
 ty"
-File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+File: lstmisc.sty 2018/09/02 1.7 (Carsten Heinz)
 )) (document.tex
 
 LaTeX Warning: Unused global option(s):
@@ -435,7 +435,7 @@ LaTeX Warning: Unused global option(s):
 (team.aux
 LaTeX Font Info:    Try loading font information for T2A+cmr on input line 3.
 
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cyrillic\t2acmr.fd
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cyrillic\t2acmr.fd
 "
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
@@ -455,12 +455,12 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
- ("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\ucsencs.def"
+ ("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\ucsencs.def"
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
 \c@lstlisting=\count126
 
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
 ii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count127
@@ -477,11 +477,11 @@ ii"
 )
 \AtBeginShipoutBox=\box32
 
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\pdflscape
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\pdflscape
 .sty"
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
 
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\lscape.st
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\lscape.st
 y"
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
@@ -528,102 +528,105 @@ Package lastpage Info: Please have a look at the pageslts package at
 (team.toc
 LaTeX Font Info:    Try loading font information for U+msa on input line 2.
 
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 2.
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ))
 \tf@toc=\write4
 \openout4 = `team.toc'.
 
- (final/template/template.cpp
+ [1{C:/Users/roman/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+]
+(final/template/template.cpp
 LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 4.
 
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cyrillic\t2acmtt.f
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cyrillic\t2acmtt.f
 d"
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )) (practice.tex
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 2.
 
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 2.
 
-("C:\Users\Roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-4.def"
+("C:\Users\roman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-4.def"
 File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
 ))
 (final/stuff/debug.cpp
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 14.
-) [1{C:/Users/Roman/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
-
-] (final/template/fastIO.cpp) (final/template/optimizations.cpp)
-(final/template/useful.cpp) (final/template/Template.java [2])
-(final/template/bitset.cpp) (final/numeric/fft.cpp
+) (final/template/fastIO.cpp)
+(final/template/optimizations.cpp [2]) (final/template/useful.cpp)
+(final/template/Template.java) (final/template/bitset.cpp) [3]
+(final/numeric/fft.cpp
 Underfull \vbox (badness 3635) has occurred while \output is active []
 
- [3])
-(final/numeric/fftint.cpp) (final/numeric/blackbox.cpp [4])
-(final/numeric/crt.cpp) (final/numeric/extendedgcd.cpp)
-(final/numeric/mulMod.cpp) (final/numeric/modReverse.cpp)
-(final/numeric/pollard.cpp) (final/numeric/poly.cpp [5]
+)
+(final/numeric/fftint.cpp [4]) (final/numeric/berlekamp.cpp)
+(final/numeric/blackbox.cpp [5]) (final/numeric/crt.cpp)
+(final/numeric/extendedgcd.cpp) (final/numeric/mulMod.cpp)
+(final/numeric/modReverse.cpp) (final/numeric/pollard.cpp)
+(final/numeric/poly.cpp [6]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
-(final/numeric/simplex.cpp [6]) (final/numeric/sumLine.cpp)
+(final/numeric/simplex.cpp [7]) (final/numeric/sumLine.cpp)
 (final/numeric/integrate.cpp)
-Overfull \hbox (5.24298pt too wide) in paragraph at lines 44--44
+Overfull \hbox (5.24298pt too wide) in paragraph at lines 45--45
 |[]\T2A/cmr/bx/n/14.4 final/geom/commonTangents.cpp| 
  []
 
 (final/geom/commonTangents.cpp)
-Overfull \hbox (29.68831pt too wide) in paragraph at lines 45--45
+Overfull \hbox (29.68831pt too wide) in paragraph at lines 46--46
 |[]\T2A/cmr/bx/n/14.4 final/geom/halfplaneIntersection.cpp| 
  []
 
-(final/geom/halfplaneIntersection.cpp [7]) (final/geom/minDisc.cpp)
-Underfull \hbox (badness 10000) in paragraph at lines 47--47
+(final/geom/halfplaneIntersection.cpp [8]) (final/geom/minDisc.cpp)
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
 |[]\T2A/cmr/bx/n/14.4 final/geom/convexHull3D-
  []
 
-(final/geom/convexHull3D-N2.cpp) (final/geom/convexDynamic.cpp [8])
+(final/geom/convexHull3D-N2.cpp) (final/geom/convexDynamic.cpp [9])
 (final/geom/polygonArcCut.cpp) (final/geom/polygonTangent.cpp)
-(final/geom/checkPlaneInt.cpp) (final/geom/furthestPoints.cpp) [9]
+(final/geom/checkPlaneInt.cpp) (final/geom/furthestPoints.cpp) [10]
 (final/geom/chtDynamic.cpp) (final/strings/eertree.cpp)
-(final/strings/sufAutomaton.cpp [10]) (final/strings/sufArray.cpp)
-(final/strings/duval.cpp) [11] (final/graphs/centroid.cpp)
+(final/strings/sufAutomaton.cpp [11]) (final/strings/sufArray.cpp)
+(final/strings/duval.cpp) [12] (final/graphs/centroid.cpp)
 (final/graphs/dominatorTree.cpp)
-Overfull \hbox (10.2285pt too wide) in paragraph at lines 64--64
+Overfull \hbox (10.2285pt too wide) in paragraph at lines 65--65
 |[]\T2A/cmr/bx/n/14.4 final/graphs/generalMatching.cpp| 
  []
 
-(final/graphs/generalMatching.cpp [12]) (final/graphs/heavyLight.cpp)
-(final/graphs/hungary.cpp [13]) (final/graphs/minCost.cpp)
-Overfull \hbox (18.84557pt too wide) in paragraph at lines 68--68
+(final/graphs/generalMatching.cpp [13]) (final/graphs/heavyLight.cpp)
+(final/graphs/hungary.cpp [14]) (final/graphs/minCost.cpp)
+Overfull \hbox (18.84557pt too wide) in paragraph at lines 69--69
 |[]\T2A/cmr/bx/n/14.4 final/graphs/minCostNegCycle.cpp| 
  []
 
-(final/graphs/minCostNegCycle.cpp [14]) (final/graphs/retro.cpp)
+(final/graphs/minCostNegCycle.cpp [15]) (final/graphs/retro.cpp)
 (final/graphs/mincut.cpp)
-Overfull \hbox (2.42744pt too wide) in paragraph at lines 72--72
+Overfull \hbox (2.42744pt too wide) in paragraph at lines 73--73
 |[]\T2A/cmr/bx/n/14.4 final/graphs/twoChineseFast.cpp| 
  []
 
-(final/graphs/twoChineseFast.cpp [15]
+(final/graphs/twoChineseFast.cpp [16]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
-(final/graphs/linkcut.cpp [16]) (final/graphs/chordaltree.cpp)
-(final/graphs/minimization.cpp [17])
-Overfull \hbox (31.30923pt too wide) in paragraph at lines 76--76
+(final/graphs/linkcut.cpp [17]) (final/graphs/chordaltree.cpp)
+(final/graphs/minimization.cpp [18])
+Overfull \hbox (31.30923pt too wide) in paragraph at lines 77--77
 |[]\T2A/cmr/bx/n/14.4 final/graphs/matroidIntersection.cpp| 
  []
 
-(final/graphs/matroidIntersection.cpp) [18] (knowledge.tex
+(final/graphs/matroidIntersection.cpp) [19] (knowledge.tex
 Underfull \hbox (badness 6859) in paragraph at lines 10--11
 []\T2A/cmr/m/n/10 явный –унге- утт чет-вер-то-го по-р€д-ка, ошиб-ка
  []
@@ -708,158 +711,161 @@ Underfull \hbox (badness 10000) in paragraph at lines 116--118
 \T2A/cmr/m/n/10 60:966467, 70:4087968, 80:15796476, 90:56634173,
  []
 
-) [19]
+) [20]
 
-pdfTeX warning: pdflatex.EXE (file ./final/stuff/integralTable.pdf): PDF inclus
+pdfTeX warning: pdflatex.exe (file ./final/stuff/integralTable.pdf): PDF inclus
 ion: found PDF version <1.7>, but at most version <1.5> allowed
-<final/stuff/integralTable.pdf, id=71, 767.86874pt x 993.7125pt>
+<final/stuff/integralTable.pdf, id=74, 767.86874pt x 993.7125pt>
 File: final/stuff/integralTable.pdf Graphic file (type pdf)
 <use final/stuff/integralTable.pdf>
-Package pdftex.def Info: final/stuff/integralTable.pdf  used on input line 85.
+Package pdftex.def Info: final/stuff/integralTable.pdf  used on input line 86.
 (pdftex.def)             Requested size: 767.86687pt x 993.71007pt.
 
 
-pdfTeX warning: pdflatex.EXE (file ./final/stuff/integralTable.pdf): PDF inclus
+pdfTeX warning: pdflatex.exe (file ./final/stuff/integralTable.pdf): PDF inclus
 ion: found PDF version <1.7>, but at most version <1.5> allowed
 File: final/stuff/integralTable.pdf Graphic file (type pdf)
 <use final/stuff/integralTable.pdf>
-Package pdftex.def Info: final/stuff/integralTable.pdf  used on input line 85.
+Package pdftex.def Info: final/stuff/integralTable.pdf  used on input line 86.
 (pdftex.def)             Requested size: 767.86687pt x 993.71007pt.
 
 
-pdfTeX warning: pdflatex.EXE (file ./final/stuff/integralTable.pdf): PDF inclus
+pdfTeX warning: pdflatex.exe (file ./final/stuff/integralTable.pdf): PDF inclus
 ion: found PDF version <1.7>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex.EXE (file ./final/stuff/integralTable.pdf): PDF inclus
+pdfTeX warning: pdflatex.exe (file ./final/stuff/integralTable.pdf): PDF inclus
 ion: found PDF version <1.7>, but at most version <1.5> allowed
-<final/stuff/integralTable.pdf, id=74, page=1, 767.86874pt x 993.7125pt>
+<final/stuff/integralTable.pdf, id=77, page=1, 767.86874pt x 993.7125pt>
 File: final/stuff/integralTable.pdf Graphic file (type pdf)
 <use final/stuff/integralTable.pdf, page 1>
 Package pdftex.def Info: final/stuff/integralTable.pdf , page1 used on input li
-ne 85.
+ne 86.
 (pdftex.def)             Requested size: 767.86687pt x 993.71007pt.
 File: final/stuff/integralTable.pdf Graphic file (type pdf)
 <use final/stuff/integralTable.pdf, page 1>
 Package pdftex.def Info: final/stuff/integralTable.pdf , page1 used on input li
-ne 85.
+ne 86.
 (pdftex.def)             Requested size: 598.17363pt x 774.10706pt.
 File: final/stuff/integralTable.pdf Graphic file (type pdf)
 <use final/stuff/integralTable.pdf, page 1>
 Package pdftex.def Info: final/stuff/integralTable.pdf , page1 used on input li
-ne 85.
+ne 86.
 (pdftex.def)             Requested size: 598.17363pt x 774.10706pt.
 File: final/stuff/integralTable.pdf Graphic file (type pdf)
 <use final/stuff/integralTable.pdf, page 1>
 Package pdftex.def Info: final/stuff/integralTable.pdf , page1 used on input li
-ne 85.
+ne 86.
 (pdftex.def)             Requested size: 598.17363pt x 774.10706pt.
 File: final/stuff/integralTable.pdf Graphic file (type pdf)
 <use final/stuff/integralTable.pdf, page 1>
 Package pdftex.def Info: final/stuff/integralTable.pdf , page1 used on input li
-ne 85.
-(pdftex.def)             Requested size: 598.17363pt x 774.10706pt.
-[20 <./final/stuff/integralTable.pdf>]
-
-pdfTeX warning: pdflatex.EXE (file ./final/stuff/integralTable.pdf): PDF inclus
-ion: found PDF version <1.7>, but at most version <1.5> allowed
-<final/stuff/integralTable.pdf, id=154, page=2, 767.86874pt x 993.7125pt>
-File: final/stuff/integralTable.pdf Graphic file (type pdf)
-<use final/stuff/integralTable.pdf, page 2>
-Package pdftex.def Info: final/stuff/integralTable.pdf , page2 used on input li
-ne 85.
-(pdftex.def)             Requested size: 598.17363pt x 774.10706pt.
-File: final/stuff/integralTable.pdf Graphic file (type pdf)
-<use final/stuff/integralTable.pdf, page 2>
-Package pdftex.def Info: final/stuff/integralTable.pdf , page2 used on input li
-ne 85.
-(pdftex.def)             Requested size: 598.17363pt x 774.10706pt.
-File: final/stuff/integralTable.pdf Graphic file (type pdf)
-<use final/stuff/integralTable.pdf, page 2>
-Package pdftex.def Info: final/stuff/integralTable.pdf , page2 used on input li
-ne 85.
+ne 86.
 (pdftex.def)             Requested size: 598.17363pt x 774.10706pt.
 [21 <./final/stuff/integralTable.pdf>]
-<final/stuff/hexagonal.pdf, id=158, 493.9042pt x 846.08798pt>
+
+pdfTeX warning: pdflatex.exe (file ./final/stuff/integralTable.pdf): PDF inclus
+ion: found PDF version <1.7>, but at most version <1.5> allowed
+<final/stuff/integralTable.pdf, id=157, page=2, 767.86874pt x 993.7125pt>
+File: final/stuff/integralTable.pdf Graphic file (type pdf)
+<use final/stuff/integralTable.pdf, page 2>
+Package pdftex.def Info: final/stuff/integralTable.pdf , page2 used on input li
+ne 86.
+(pdftex.def)             Requested size: 598.17363pt x 774.10706pt.
+File: final/stuff/integralTable.pdf Graphic file (type pdf)
+<use final/stuff/integralTable.pdf, page 2>
+Package pdftex.def Info: final/stuff/integralTable.pdf , page2 used on input li
+ne 86.
+(pdftex.def)             Requested size: 598.17363pt x 774.10706pt.
+File: final/stuff/integralTable.pdf Graphic file (type pdf)
+<use final/stuff/integralTable.pdf, page 2>
+Package pdftex.def Info: final/stuff/integralTable.pdf , page2 used on input li
+ne 86.
+(pdftex.def)             Requested size: 598.17363pt x 774.10706pt.
+[22 <./final/stuff/integralTable.pdf>]
+<final/stuff/hexagonal.pdf, id=161, 493.9042pt x 846.08798pt>
 File: final/stuff/hexagonal.pdf Graphic file (type pdf)
 <use final/stuff/hexagonal.pdf>
-Package pdftex.def Info: final/stuff/hexagonal.pdf  used on input line 88.
+Package pdftex.def Info: final/stuff/hexagonal.pdf  used on input line 89.
 (pdftex.def)             Requested size: 493.903pt x 846.08592pt.
 File: final/stuff/hexagonal.pdf Graphic file (type pdf)
 <use final/stuff/hexagonal.pdf>
-Package pdftex.def Info: final/stuff/hexagonal.pdf  used on input line 88.
+Package pdftex.def Info: final/stuff/hexagonal.pdf  used on input line 89.
 (pdftex.def)             Requested size: 493.903pt x 846.08592pt.
-<final/stuff/hexagonal.pdf, id=161, page=1, 493.9042pt x 846.08798pt>
+<final/stuff/hexagonal.pdf, id=164, page=1, 493.9042pt x 846.08798pt>
 File: final/stuff/hexagonal.pdf Graphic file (type pdf)
 <use final/stuff/hexagonal.pdf, page 1>
 Package pdftex.def Info: final/stuff/hexagonal.pdf , page1 used on input line 8
-8.
+9.
 (pdftex.def)             Requested size: 493.903pt x 846.08592pt.
 File: final/stuff/hexagonal.pdf Graphic file (type pdf)
 <use final/stuff/hexagonal.pdf, page 1>
 Package pdftex.def Info: final/stuff/hexagonal.pdf , page1 used on input line 8
-8.
+9.
 (pdftex.def)             Requested size: 493.3453pt x 845.13055pt.
 File: final/stuff/hexagonal.pdf Graphic file (type pdf)
 <use final/stuff/hexagonal.pdf, page 1>
 Package pdftex.def Info: final/stuff/hexagonal.pdf , page1 used on input line 8
-8.
+9.
 (pdftex.def)             Requested size: 493.3453pt x 845.13055pt.
 File: final/stuff/hexagonal.pdf Graphic file (type pdf)
 <use final/stuff/hexagonal.pdf, page 1>
 Package pdftex.def Info: final/stuff/hexagonal.pdf , page1 used on input line 8
-8.
+9.
 (pdftex.def)             Requested size: 493.3453pt x 845.13055pt.
 File: final/stuff/hexagonal.pdf Graphic file (type pdf)
 <use final/stuff/hexagonal.pdf, page 1>
 Package pdftex.def Info: final/stuff/hexagonal.pdf , page1 used on input line 8
-8.
+9.
 (pdftex.def)             Requested size: 493.3453pt x 845.13055pt.
- [22 <./final/stuff/hexagonal.pdf>]
+ [23 <./final/stuff/hexagonal.pdf>]
 
 AED: lastpage setting LastPage
-(team.aux) ) ) 
+(team.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) ) 
 Here is how much of TeX's memory you used:
- 9281 strings out of 492973
- 131547 string characters out of 3126692
- 1340875 words of memory out of 3000000
- 12816 multiletter control sequences out of 15000+200000
+ 9313 strings out of 492970
+ 132030 string characters out of 3126595
+ 1507852 words of memory out of 3000000
+ 12847 multiletter control sequences out of 15000+200000
  12332 words of font info for 32 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,18n,67p,352b,938s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/Roman/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips
-/cm-super/cm-super-t2a.enc}<C:/Users/Roman/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Roman/AppData/Local/Programs/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cmextra/cmex9.pfb><C:/Users/Roman/AppData
-/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/R
-oman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb
-><C:/Users/Roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmmi9.pfb><C:/Users/Roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmr10.pfb><C:/Users/Roman/AppData/Local/Programs/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Roman/AppData/Local/Programs/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/Roman/AppData/Local/P
-rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Roman/AppD
-ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users
-/Roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.
-pfb><C:/Users/Roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmsy6.pfb><C:/Users/Roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmsy7.pfb><C:/Users/Roman/AppData/Local/Programs/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/Roman/AppData/Local/Programs/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt9.pfb><C:/Users/Roman/AppData/Loc
-al/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1000.pfb><C:/Users/Roman
-/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1440.pfb><C:
-/Users/Roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm
-0600.pfb><C:/Users/Roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/c
-m-super/sfrm0700.pfb><C:/Users/Roman/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
-pe1/public/cm-super/sfrm0900.pfb><C:/Users/Roman/AppData/Local/Programs/MiKTeX 
-2.9/fonts/type1/public/cm-super/sfrm1000.pfb><C:/Users/Roman/AppData/Local/Prog
-rams/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1200.pfb><C:/Users/Roman/AppDat
-a/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sftt0800.pfb><C:/Users/
-Roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sftt1000.pf
-b>
-Output written on team.pdf (22 pages, 721339 bytes).
+{C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/cm-super/
+cm-super-t2a.enc}<C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmbx9.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cmextra/cmex9.pfb><C:/Users/roman/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/roman/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users
+/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.p
+fb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmr10.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmr17.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/roman/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/roman/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/roman/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Us
+ers/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy
+6.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmsy7.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmsy9.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmtt9.pfb><C:/Users/roman/AppData/Local/Program
+s/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1000.pfb><C:/Users/roman/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1440.pfb><C:/Users/rom
+an/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm0600.pfb><
+C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sf
+rm0700.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
+/cm-super/sfrm0900.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/
+type1/public/cm-super/sfrm1000.pfb><C:/Users/roman/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/public/cm-super/sfrm1200.pfb><C:/Users/roman/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/public/cm-super/sftt0800.pfb><C:/Users/roman/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sftt1000.pfb>
+Output written on team.pdf (23 pages, 726441 bytes).
 PDF statistics:
- 213 PDF objects out of 1000 (max. 8388607)
+ 216 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
