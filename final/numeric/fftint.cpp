@@ -1,19 +1,26 @@
 namespace fft {
     const int MOD = 998244353;
-    const int base = 20;
-    const int N = 1 << base;
-    const int ROOT = 646;
+    const int maxB = 20;
+    const int maxN = 1 << maxB;
+    const int initROOT = 646;
 
-    int root[N];
-    int rev[N];
+    int root[maxN];
+    int rev[maxN];
+    int N;
 
     ll inv(ll a, ll m = MOD) {
         if (a == 0) return 0;
         return ((1 - inv(m % a, a) * m) / a + m) % m;
     }
 
-    void init() {
-        for (int i = 0; i < N; i++) rev[i] = (rev[i >> 1] >> 1) + ((i & 1) << (base - 1));
+    void init(int cur_base) {
+    	N = 1 << cur_base;
+        for (int i = 0; i < N; i++) rev[i] = (rev[i >> 1] >> 1) + ((i & 1) << (cur_base - 1));
+ 
+        
+        int ROOT = initROOT;
+        for (int i = cur_base; i < 20; i++) ROOT = mul(ROOT, ROOT);
+        
         int NN = N >> 1;
         int z = 1;
         for (int i = 0; i < NN; i++) {
@@ -36,8 +43,8 @@ namespace fft {
         }
     }
 
-    int A[N], B[N], C[N];
-    int F[N], G[N];
+    int A[maxN], B[maxN], C[maxN];
+    int F[maxN], G[maxN];
 
     void _mult(int eq) {
         fft(A, F);
@@ -52,6 +59,10 @@ namespace fft {
     }
 
     void mult(int n1, int n2, int eq = 0) {
+    	int n = n1 + n2, cur_base = 0;
+    	while ((1 << cur_base) < n) cur_base++;
+    	init(cur_base + 1);
+    
         for (int i = n1; i < N; ++i) A[i] = 0;
         for (int i = n2; i < N; ++i) B[i] = 0;
 
