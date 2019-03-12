@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2019.1.3)  9 MAR 2019 12:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2019.1.3)  9 MAR 2019 12:27
 entering extended mode
 **./team.tex
 (team.tex
@@ -724,7 +724,78 @@ Underfull \hbox (badness 10000) in paragraph at lines 116--118
  []
 
 ) [22]
-<final/stuff/hexagonal.pdf, id=80, 493.9042pt x 846.08798pt>
+
+pdfTeX warning: pdflatex.exe (file ./final/stuff/integralTable.pdf): PDF inclus
+ion: found PDF version <1.7>, but at most version <1.5> allowed
+<final/stuff/integralTable.pdf, id=80, 767.86874pt x 993.7125pt>
+File: final/stuff/integralTable.pdf Graphic file (type pdf)
+<use final/stuff/integralTable.pdf>
+Package pdftex.def Info: final/stuff/integralTable.pdf  used on input line 88.
+(pdftex.def)             Requested size: 767.86687pt x 993.71007pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./final/stuff/integralTable.pdf): PDF inclus
+ion: found PDF version <1.7>, but at most version <1.5> allowed
+File: final/stuff/integralTable.pdf Graphic file (type pdf)
+<use final/stuff/integralTable.pdf>
+Package pdftex.def Info: final/stuff/integralTable.pdf  used on input line 88.
+(pdftex.def)             Requested size: 767.86687pt x 993.71007pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./final/stuff/integralTable.pdf): PDF inclus
+ion: found PDF version <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex.exe (file ./final/stuff/integralTable.pdf): PDF inclus
+ion: found PDF version <1.7>, but at most version <1.5> allowed
+<final/stuff/integralTable.pdf, id=83, page=1, 767.86874pt x 993.7125pt>
+File: final/stuff/integralTable.pdf Graphic file (type pdf)
+<use final/stuff/integralTable.pdf, page 1>
+Package pdftex.def Info: final/stuff/integralTable.pdf , page1 used on input li
+ne 88.
+(pdftex.def)             Requested size: 767.86687pt x 993.71007pt.
+File: final/stuff/integralTable.pdf Graphic file (type pdf)
+<use final/stuff/integralTable.pdf, page 1>
+Package pdftex.def Info: final/stuff/integralTable.pdf , page1 used on input li
+ne 88.
+(pdftex.def)             Requested size: 598.17363pt x 774.10706pt.
+File: final/stuff/integralTable.pdf Graphic file (type pdf)
+<use final/stuff/integralTable.pdf, page 1>
+Package pdftex.def Info: final/stuff/integralTable.pdf , page1 used on input li
+ne 88.
+(pdftex.def)             Requested size: 598.17363pt x 774.10706pt.
+File: final/stuff/integralTable.pdf Graphic file (type pdf)
+<use final/stuff/integralTable.pdf, page 1>
+Package pdftex.def Info: final/stuff/integralTable.pdf , page1 used on input li
+ne 88.
+(pdftex.def)             Requested size: 598.17363pt x 774.10706pt.
+File: final/stuff/integralTable.pdf Graphic file (type pdf)
+<use final/stuff/integralTable.pdf, page 1>
+Package pdftex.def Info: final/stuff/integralTable.pdf , page1 used on input li
+ne 88.
+(pdftex.def)             Requested size: 598.17363pt x 774.10706pt.
+[23 <./final/stuff/integralTable.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./final/stuff/integralTable.pdf): PDF inclus
+ion: found PDF version <1.7>, but at most version <1.5> allowed
+<final/stuff/integralTable.pdf, id=163, page=2, 767.86874pt x 993.7125pt>
+File: final/stuff/integralTable.pdf Graphic file (type pdf)
+<use final/stuff/integralTable.pdf, page 2>
+Package pdftex.def Info: final/stuff/integralTable.pdf , page2 used on input li
+ne 88.
+(pdftex.def)             Requested size: 598.17363pt x 774.10706pt.
+File: final/stuff/integralTable.pdf Graphic file (type pdf)
+<use final/stuff/integralTable.pdf, page 2>
+Package pdftex.def Info: final/stuff/integralTable.pdf , page2 used on input li
+ne 88.
+(pdftex.def)             Requested size: 598.17363pt x 774.10706pt.
+File: final/stuff/integralTable.pdf Graphic file (type pdf)
+<use final/stuff/integralTable.pdf, page 2>
+Package pdftex.def Info: final/stuff/integralTable.pdf , page2 used on input li
+ne 88.
+(pdftex.def)             Requested size: 598.17363pt x 774.10706pt.
+[24 <./final/stuff/integralTable.pdf>]
+<final/stuff/hexagonal.pdf, id=167, 493.9042pt x 846.08798pt>
 File: final/stuff/hexagonal.pdf Graphic file (type pdf)
 <use final/stuff/hexagonal.pdf>
 Package pdftex.def Info: final/stuff/hexagonal.pdf  used on input line 91.
@@ -733,7 +804,7 @@ File: final/stuff/hexagonal.pdf Graphic file (type pdf)
 <use final/stuff/hexagonal.pdf>
 Package pdftex.def Info: final/stuff/hexagonal.pdf  used on input line 91.
 (pdftex.def)             Requested size: 493.903pt x 846.08592pt.
-<final/stuff/hexagonal.pdf, id=83, page=1, 493.9042pt x 846.08798pt>
+<final/stuff/hexagonal.pdf, id=170, page=1, 493.9042pt x 846.08798pt>
 File: final/stuff/hexagonal.pdf Graphic file (type pdf)
 <use final/stuff/hexagonal.pdf, page 1>
 Package pdftex.def Info: final/stuff/hexagonal.pdf , page1 used on input line 9
@@ -759,32 +830,51 @@ File: final/stuff/hexagonal.pdf Graphic file (type pdf)
 Package pdftex.def Info: final/stuff/hexagonal.pdf , page1 used on input line 9
 1.
 (pdftex.def)             Requested size: 493.3453pt x 845.13055pt.
- [23 <./final/stuff/hexagonal.pdf>] 
+ [25 <./final/stuff/hexagonal.pdf>]
+
 AED: lastpage setting LastPage
 (team.aux) ) ) 
 Here is how much of TeX's memory you used:
- 9422 strings out of 492970
- 133106 string characters out of 3126595
+ 9434 strings out of 492970
+ 133577 string characters out of 3126595
  1507852 words of memory out of 3000000
- 12952 multiletter control sequences out of 15000+200000
+ 12962 multiletter control sequences out of 15000+200000
  12332 words of font info for 32 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,18n,67p,352b,1002s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips
 /cm-super/cm-super-t2a.enc}<C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/roman/AppData/Local/Programs/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/roman/AppData/Loc
-al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/roman
-/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1000.pfb><C:
-/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx
-1440.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/c
+nts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/roman/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cmextra/cmex9.pfb><C:/Users/roman/AppData
+/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/r
+oman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb
+><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmmi9.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmr10.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/roman/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/roman/AppData/Local/P
+rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/roman/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users
+/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.
+pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmsy6.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmsy7.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/roman/AppData/Local/Programs/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt9.pfb><C:/Users/roman/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1000.pfb><C:/Users/roman
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1440.pfb><C:
+/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm
+0600.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/c
 m-super/sfrm0700.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
-pe1/public/cm-super/sfrm1000.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 
-2.9/fonts/type1/public/cm-super/sftt0800.pfb><C:/Users/roman/AppData/Local/Prog
-rams/MiKTeX 2.9/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on team.pdf (23 pages, 589048 bytes).
+pe1/public/cm-super/sfrm0900.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 
+2.9/fonts/type1/public/cm-super/sfrm1000.pfb><C:/Users/roman/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1200.pfb><C:/Users/roman/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sftt0800.pfb><C:/Users/
+roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sftt1000.pf
+b>
+Output written on team.pdf (25 pages, 751644 bytes).
 PDF statistics:
- 120 PDF objects out of 1000 (max. 8388607)
+ 223 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
