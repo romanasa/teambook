@@ -9,12 +9,12 @@
 \contentsline {section}{\numberline {8}final/template/bitset.cpp}{3}
 \contentsline {section}{\numberline {9}final/numeric/fft.cpp}{3}
 \contentsline {section}{\numberline {10}final/numeric/fftint.cpp}{4}
-\contentsline {section}{\numberline {11}final/numeric/berlekamp.cpp}{4}
+\contentsline {section}{\numberline {11}final/numeric/berlekamp.cpp}{5}
 \contentsline {section}{\numberline {12}final/numeric/blackbox.cpp}{5}
 \contentsline {section}{\numberline {13}final/numeric/crt.cpp}{5}
 \contentsline {section}{\numberline {14}final/numeric/extendedgcd.cpp}{5}
 \contentsline {section}{\numberline {15}final/numeric/mulMod.cpp}{5}
-\contentsline {section}{\numberline {16}final/numeric/modReverse.cpp}{5}
+\contentsline {section}{\numberline {16}final/numeric/modReverse.cpp}{6}
 \contentsline {section}{\numberline {17}final/numeric/pollard.cpp}{6}
 \contentsline {section}{\numberline {18}final/numeric/poly.cpp}{6}
 \contentsline {section}{\numberline {19}final/numeric/simplex.cpp}{7}
