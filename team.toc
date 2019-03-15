@@ -22,14 +22,14 @@
 \contentsline {section}{\numberline {21}final/numeric/integrate.cpp}{7}
 \contentsline {section}{\numberline {22}final/geom/commonTangents.cpp}{8}
 \contentsline {section}{\numberline {23}final/geom/halfplaneIntersection.cpp}{8}
-\contentsline {section}{\numberline {24}final/geom/minDisc.cpp}{9}
+\contentsline {section}{\numberline {24}final/geom/minDisc.cpp}{8}
 \contentsline {section}{\numberline {25}final/geom/convexHull3D-N2.cpp}{9}
 \contentsline {section}{\numberline {26}final/geom/convexDynamic.cpp}{9}
-\contentsline {section}{\numberline {27}final/geom/polygonArcCut.cpp}{10}
+\contentsline {section}{\numberline {27}final/geom/polygonArcCut.cpp}{9}
 \contentsline {section}{\numberline {28}final/geom/polygonTangent.cpp}{10}
 \contentsline {section}{\numberline {29}final/geom/checkPlaneInt.cpp}{10}
 \contentsline {section}{\numberline {30}final/geom/furthestPoints.cpp}{10}
-\contentsline {section}{\numberline {31}final/geom/chtDynamic.cpp}{11}
+\contentsline {section}{\numberline {31}final/geom/chtDynamic.cpp}{10}
 \contentsline {section}{\numberline {32}final/strings/eertree.cpp}{11}
 \contentsline {section}{\numberline {33}final/strings/manacher.cpp}{11}
 \contentsline {section}{\numberline {34}final/strings/sufAutomaton.cpp}{12}
