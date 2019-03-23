@@ -1,6 +1,8 @@
 #include "ext/pb_ds/assoc_container.hpp"
+#include <bits/extc++.h> /** keep-include */
 using namespace __gnu_pbds;
 
+gp_hash_table<ll, int> h({},{},{},{}, {1 << 16});
 template <typename T> using ordered_set = tree<T, null_type, less<T>, rb_tree_tag, tree_order_statistics_node_update>;
 template <typename K, typename V> using ordered_map = tree<K, V, less<K>, rb_tree_tag, tree_order_statistics_node_update>;
 
