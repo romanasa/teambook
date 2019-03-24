@@ -1,4 +1,5 @@
-// team : SPb ITMO University Komanda
+// team : SPb ITMO University
+// setxkbmap us
 #include <bits/stdc++.h>
 #ifdef SIR
     #define err(...) fprintf(stderr, __VA_ARGS__)
