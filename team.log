@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2019.1.3)  23 MAR 2019 21:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2019.1.3)  24 MAR 2019 11:52
 entering extended mode
 **./team.tex
 (team.tex
@@ -708,138 +708,112 @@ Overfull \hbox (31.30923pt too wide) in paragraph at lines 88--88
 
 (final/graphs/matroidIntersection.cpp [21]) (final/graphs/compressTree.cpp)
 [22] (knowledge.tex
-Underfull \hbox (badness 10000) in paragraph at lines 5--8
-[] \T2A/cmtt/m/n/10 dbl Simpson()  return (F(-1) + 4 * F(0) +
+Underfull \hbox (badness 10000) in paragraph at lines 1--2
+[]\T2A/cmtt/m/n/10 dbl Simpson() { return (F(-1) + 4 * F(0) +
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+[]\T2A/cmtt/m/n/10 dbl Runge2() { return (F(-sqrtl(1.0 / 3)) +
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 5--8
-\T2A/cmtt/m/n/10 F(1)) / 6;  dbl Runge2()  return (F(-sqrtl(1.0
+[]\T2A/cmtt/m/n/10 dbl Runge3() { return (F(-sqrtl(3.0 / 5)) * 5 +
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5--8
-\T2A/cmtt/m/n/10 / 3)) + F(sqrtl(1.0 / 3))) / 2;  dbl Runge3()
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--8
-\T2A/cmtt/m/n/10 return (F(-sqrtl(3.0 / 5)) * 5 + F(0) * 8 +
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 56--57
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
 []\T2A/cmtt/m/n/10 mat[a][a]++, mat[b][b]++, mat[a][b]--,
  []
 
 
-Underfull \hbox (badness 2261) in paragraph at lines 69--77
-[]\T2A/cmr/m/n/10 „исло про-стых быст-рее O(n):  \T2A/cmtt/m/n/10 dp(n, k) -- ч
-исло
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 69--77
-\T2A/cmtt/m/n/10 чисел от 1 до n в которых все простые >= p[k]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 69--77
-\T2A/cmtt/m/n/10 dp(n, 1) = n dp(n, j) = dp(n, j + 1) + dp(n /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 69--77
-\T2A/cmtt/m/n/10 p[j], j), т. е. dp(n, j + 1) = dp(n, j) - dp(n /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 93--100
+Underfull \hbox (badness 10000) in paragraph at lines 87--94
 []\T2A/cmr/m/n/10 ‘ибоначчи 45: 1134903170 46: 1836311903
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 93--100
+Underfull \hbox (badness 10000) in paragraph at lines 87--94
 \T2A/cmr/m/n/10 47: 2971215073 91: 4660046610375530309 92:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--116
+Underfull \hbox (badness 10000) in paragraph at lines 95--110
 []\T2A/cmr/m/n/10 „исла с ку-чей де-ли-те-лей 20: d(12)=6 50:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--116
+Underfull \hbox (badness 10000) in paragraph at lines 95--110
 \T2A/cmr/m/n/10 d(48)=10 100: d(60)=12 1000: d(840)=32 $\OT1/cmr/m/n/10 10[]$\T
 2A/cmr/m/n/10 :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--116
+Underfull \hbox (badness 10000) in paragraph at lines 95--110
 \T2A/cmr/m/n/10 d(9240)=64 $\OT1/cmr/m/n/10 10[]$\T2A/cmr/m/n/10 : d(83160)=128
  $\OT1/cmr/m/n/10 10[]$\T2A/cmr/m/n/10 : d(720720)=240
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--116
+Underfull \hbox (badness 10000) in paragraph at lines 95--110
 \OT1/cmr/m/n/10 10[]$\T2A/cmr/m/n/10 : d(8648640)=448 $\OT1/cmr/m/n/10 10[]$\T2
 A/cmr/m/n/10 : d(91891800)=768 $\OT1/cmr/m/n/10 10[]$\T2A/cmr/m/n/10 :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--116
+Underfull \hbox (badness 10000) in paragraph at lines 95--110
 \T2A/cmr/m/n/10 d(931170240)=1344 $\OT1/cmr/m/n/10 10[]$\T2A/cmr/m/n/10 : d(977
 72875200)=4032 $\OT1/cmr/m/n/10 10[]$\T2A/cmr/m/n/10 :
  []
 
 
-Underfull \hbox (badness 1231) in paragraph at lines 101--116
+Underfull \hbox (badness 1231) in paragraph at lines 95--110
 \T2A/cmr/m/n/10 d(963761198400)=6720 $\OT1/cmr/m/n/10 10[]$\T2A/cmr/m/n/10 : d(
 866421317361600)=26880
  []
 
 
-Underfull \hbox (badness 1990) in paragraph at lines 120--125
+Underfull \hbox (badness 1990) in paragraph at lines 114--119
 []\T2A/cmr/m/n/10 0:1, 1:1, 2:2, 3:5, 4:15, 5:52, 6:203, 7:877, 8:4140,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--125
+Underfull \hbox (badness 10000) in paragraph at lines 114--119
 \T2A/cmr/m/n/10 14:190899322, 15:1382958545, 16:10480142147,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--125
+Underfull \hbox (badness 10000) in paragraph at lines 114--119
 \T2A/cmr/m/n/10 17:82864869804, 18:682076806159, 19:5832742205057,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--125
+Underfull \hbox (badness 10000) in paragraph at lines 114--119
 \T2A/cmr/m/n/10 20:51724158235372, 21:474869816156751,
  []
 
 
-Underfull \hbox (badness 3460) in paragraph at lines 129--134
+Underfull \hbox (badness 3460) in paragraph at lines 123--128
 \T2A/cmr/m/n/10 10:16796, 11:58786, 12:208012, 13:742900, 14:2674440,
  []
 
 
-Underfull \hbox (badness 6995) in paragraph at lines 129--134
+Underfull \hbox (badness 6995) in paragraph at lines 123--128
 \T2A/cmr/m/n/10 15:9694845, 16:35357670, 17:129644790, 18:477638700,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--134
+Underfull \hbox (badness 10000) in paragraph at lines 123--128
 \T2A/cmr/m/n/10 19:1767263190, 20:6564120420, 21:24466267020,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--134
+Underfull \hbox (badness 10000) in paragraph at lines 123--128
 \T2A/cmr/m/n/10 22:91482563640, 23:343059613650, 24:1289904147324,
  []
 
 
-Underfull \hbox (badness 2229) in paragraph at lines 138--139
+Underfull \hbox (badness 2229) in paragraph at lines 132--133
 []\T2A/cmr/m/n/10 0:1, 1:1, 2:2, 3:3, 4:5, 5:7, 6:11, 7:15, 8:22, 9:30,
  []
 
@@ -847,7 +821,7 @@ Underfull \hbox (badness 2229) in paragraph at lines 138--139
 
 pdfTeX warning: pdflatex.exe (file ./final/stuff/integralTable.pdf): PDF inclus
 ion: found PDF version <1.7>, but at most version <1.5> allowed
-<final/stuff/integralTable.pdf, id=90, 767.86874pt x 993.7125pt>
+<final/stuff/integralTable.pdf, id=91, 767.86874pt x 993.7125pt>
 File: final/stuff/integralTable.pdf Graphic file (type pdf)
 <use final/stuff/integralTable.pdf>
 Package pdftex.def Info: final/stuff/integralTable.pdf  used on input line 98.
@@ -868,7 +842,7 @@ ion: found PDF version <1.7>, but at most version <1.5> allowed
 
 pdfTeX warning: pdflatex.exe (file ./final/stuff/integralTable.pdf): PDF inclus
 ion: found PDF version <1.7>, but at most version <1.5> allowed
-<final/stuff/integralTable.pdf, id=93, page=1, 767.86874pt x 993.7125pt>
+<final/stuff/integralTable.pdf, id=94, page=1, 767.86874pt x 993.7125pt>
 File: final/stuff/integralTable.pdf Graphic file (type pdf)
 <use final/stuff/integralTable.pdf, page 1>
 Package pdftex.def Info: final/stuff/integralTable.pdf , page1 used on input li
@@ -898,7 +872,7 @@ ne 98.
 
 pdfTeX warning: pdflatex.exe (file ./final/stuff/integralTable.pdf): PDF inclus
 ion: found PDF version <1.7>, but at most version <1.5> allowed
-<final/stuff/integralTable.pdf, id=173, page=2, 767.86874pt x 993.7125pt>
+<final/stuff/integralTable.pdf, id=174, page=2, 767.86874pt x 993.7125pt>
 File: final/stuff/integralTable.pdf Graphic file (type pdf)
 <use final/stuff/integralTable.pdf, page 2>
 Package pdftex.def Info: final/stuff/integralTable.pdf , page2 used on input li
@@ -929,40 +903,42 @@ Here is how much of TeX's memory you used:
 /cm-super/cm-super-t2a.enc}<C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fo
 nts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/roman/AppData/Local/Programs/M
 iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/roman/AppData/Loc
-al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cmextra/cmex9.pfb><C:/Users/
-roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.p
+al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cmextra/cmex7.pfb><C:/Users/
+roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cmextra/cme
+x9.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmmi10.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmmi5.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/roman/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/roman/AppData
+/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/r
+oman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
+><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmr17.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmr5.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/roman/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/roman/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/roman/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users
+/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy5.p
 fb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmmi5.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmmi6.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/roman/AppData/Local/Programs/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/roman/AppData/Loca
-l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/roman/
-AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/
-Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-r5.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
-fonts/cm/cmr6.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmr7.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/roman/AppData/Local/Programs/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/roman/AppData/Lo
-cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/roma
-n/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C
-:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmsy7.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
-amsfonts/cm/cmsy9.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/t
-ype1/public/amsfonts/cm/cmtt9.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX
- 2.9/fonts/type1/public/cm-super/sfbx1000.pfb><C:/Users/roman/AppData/Local/Pro
-grams/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1440.pfb><C:/Users/roman/AppDa
-ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm0600.pfb><C:/Users
-/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm0700.p
-fb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-supe
-r/sfrm0900.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
-blic/cm-super/sfrm1000.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/public/cm-super/sfrm1200.pfb><C:/Users/roman/AppData/Local/Programs/M
-iKTeX 2.9/fonts/type1/public/cm-super/sftt0800.pfb><C:/Users/roman/AppData/Loca
-l/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on team.pdf (25 pages, 642974 bytes).
+s/cm/cmsy6.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmsy7.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/roman/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt9.pfb><C:/Users/roman/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1000.pfb><C:/Users/roman/
+AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1440.pfb><C:/
+Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm0
+600.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm
+-super/sfrm0700.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/public/cm-super/sfrm0900.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/public/cm-super/sfrm1000.pfb><C:/Users/roman/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1200.pfb><C:/Users/roman/AppData
+/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sftt0800.pfb><C:/Users/r
+oman/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sftt1000.pfb
+>
+Output written on team.pdf (25 pages, 653699 bytes).
 PDF statistics:
- 240 PDF objects out of 1000 (max. 8388607)
+ 244 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
