@@ -27,6 +27,14 @@ $k4 = f(xn + h, yn + h \cdot k3)$
 
 ---
 
+if $a^{(p-1)/f} \ne 1 (mod p)$ for all factors $f$ of $p-1$, $a$ is a primitive root modulo $p$.
+Now, we want $w^n=1 (mod p)$ (here $n$ is our transform length). 
+So we find a prime of the form $p=kn+1$.
+$w=r^k (mod p)$
+That's it. Now $w^n=r^{kn}=r^{p-1}=1 (mod p)$. And $w^n=1$ but $w^m != 1$ if $m < n$. So it works.
+
+---
+
 Извлечение корня по простому модулю (от Сережи)
 $3 \leq p$, $1 \leq a < p$, найти $x^2 = a$
 \begin{enumerate}
